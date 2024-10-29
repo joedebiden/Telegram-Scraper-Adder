@@ -1,10 +1,9 @@
-# 📦 Telebox
+# 📦 Telebox  
+
 
 **Telebox** is a powerful tool designed to easily manage tasks on Telegram, like adding members and automating message sending. User-friendly and efficient, Telebox lets you scrape / add members to your communities with just a few clicks.
 
-<p align="center">
-  <img src="path/to/logo.png" alt="Telebox Logo" width="200">
-</p>
+
 
 ---
 
